@@ -2,9 +2,9 @@
 
 <br><br>
 
-| Institution Logo       | Repository |
-| :---       |    :----  | 
-| <img src="https://logodownload.org/wp-content/uploads/2015/02/ufrj-logo-7-minerva.png" width=26px/>  | [link](https://www.kaggle.com/c/titanic)      |   |
-| [🐶 Dog Breed Classifier](https://github.com/EricaFer/Dog-Breed-Classifier)   |  [link](https://www.kaggle.com/c/dog-breed-identification)    |      |
-| [🚜 Bulldozer Price Prediction](https://github.com/EricaFer/Bulldozer-Price-Prediction)  | [link](https://www.kaggle.com/c/bluebook-for-bulldozers)     |      |
-| [❤ Heart Disease Classification](https://github.com/EricaFer/Heart-Disease-Classifier)  | [link](https://www.kaggle.com/c/ec524-heart-disease)     |      |
+| Institution Logo       |Nome | Repository |
+| :---:       |    :----  |     :----  | 
+| <img src="https://www.poli.ufrj.br/noticias/Logo%20225%20anos%20POLI.png" width=50px/>  | Universidade Federal do Rio de Janeiro|   |
+| <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/17180/regular.png" width=50px/>|  DataCamp    |      |
+| <img src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" width=50px/>  | Udemy    |      |
+| <img src="https://logodownload.org/wp-content/uploads/2016/09/FGV-Logo-3.png" width=50px/>  | Fundação Getúlio Vargas     |      |
