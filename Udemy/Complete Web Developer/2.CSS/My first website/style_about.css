@@ -1,0 +1,22 @@
+header{
+    background-color: rgba(65, 105, 225,0.3);
+}
+body{
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+}
+
+h2 {
+    color: rgb(65, 105, 225);
+    text-align: center;
+    cursor: pointer;
+}
+
+.webactive {
+    color: darkblue
+}
